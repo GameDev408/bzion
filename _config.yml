@@ -1,0 +1,10 @@
+# Site settings
+title: the BZiON project
+irc_server: irc.freenode.net
+irc_channel: "#sujevo"
+baseurl: "/bzion" # the subpath of your site, e.g. /blog/
+url: "http://projects.allejo.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: redcarpet
+include: ['_pages']
